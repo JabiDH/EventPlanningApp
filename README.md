@@ -1,0 +1,2 @@
+# EventPlanningApp
+Events Planning App
